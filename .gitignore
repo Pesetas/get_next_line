@@ -1,0 +1,10 @@
+*.s*
+*.out
+vgcore*
+42*
+main*
+*vscode*
+*gnl*
+valgrind*
+*test*
+
